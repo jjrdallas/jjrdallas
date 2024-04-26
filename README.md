@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjrdallas
 - 👀 I’m interested in cryptocurrency, AI/AL, security
-- 🌱 I’m currently learning jave, python, c++
+- 🌱 I’m currently learning java, python, c++
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me plateoshrimp@google.com
 - 😄 Pronouns: 
